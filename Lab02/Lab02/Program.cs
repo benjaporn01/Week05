@@ -6,5 +6,5 @@ public class TryCatch
     {
         object o2 = null;
         int i2 = (int)o2;   // Error
-    }
+    }  
 }
