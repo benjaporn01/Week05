@@ -6,7 +6,7 @@ namespace ConsoleApp2
 {
     class CoffeeShop
     {
-        static void Main()
+        static void Main()  
         {
             Console.WriteLine("Coffee sizes: 1=Small 2=Medium 3=Large");
             Console.Write("Please enter your selection: ");
