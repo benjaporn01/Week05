@@ -18,7 +18,7 @@ public class ExceptionLearning
         }
         catch (NullReferenceException e)
         {
-            Console.WriteLine("NullReferenceException");
+            Console.WriteLine("NullReferenceException");  
             Console.WriteLine(e.Message);
 
         }
