@@ -16,7 +16,7 @@ public class GotoTest
         Console.WriteLine("Line 4");
         Console.WriteLine("Line 5");
         goto line2;
-    line9:
+    line9:  
         Console.WriteLine("Line 9");
     
     }
