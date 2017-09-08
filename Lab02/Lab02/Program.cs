@@ -4,6 +4,7 @@ public class GotoTest
 {
     static void Main(string[] args)
     {
+
         Console.WriteLine("Line 1");
         goto line4;
         goto line9;
