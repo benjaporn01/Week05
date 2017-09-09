@@ -9,7 +9,7 @@ namespace ConsoleApp2
         {
             for (int i = 1; i <= 10; i++)
             {
-                if (i < 9)
+                if (i < 9)  
                 {
                     continue;
                 }
